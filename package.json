@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://funsujan.github.io/comp2156",
+  "homepage": "https://funsujan.github.io/comp2156/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/funsujan/comp2156.git"
